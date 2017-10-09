@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FApigee.Net.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FApigee.Net?ref=badge_shield)
+
 Apigee.Net
 ==========
 
@@ -37,3 +39,6 @@ Usage is as follows :
 
             //Lookup a user by token ID
             var username = apiClient.LookUpToken(token);
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FApigee.Net.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FApigee.Net?ref=badge_large)
